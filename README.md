@@ -30,7 +30,7 @@ Handles multiple number formats, avoids rate limits, and updates contacts effici
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/google-contacts-updater.git
+   git clone https://github.com/rithvikm007/google-contacts-updater.git
    cd google-contacts-updater
    ```
 
